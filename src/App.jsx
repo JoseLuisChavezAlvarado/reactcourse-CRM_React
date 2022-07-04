@@ -8,7 +8,6 @@ import Inicio from './pages/Inicio'
 function App() {
 
   return (
-
     <BrowserRouter>
       <Routes>
         <Route path='/clientes' element={<Layout />}>
